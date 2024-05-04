@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+/* || RESET */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* || VARIABLES */
+
+:root {
+  /* COLORS */
+  
+}
+
+/* || UTILITY CLASSES */
+
+/* || GENERAL STYLES */
+
+/* || BLOCKS */
+/* aka components */
+
+/* || ELEMENTS */
+/* No standalone meaning - semantically tied to the block */
+/* Does not represent structure, NOT header__nav__btn */
+
+/* || MODIFIERS */
+/* incremental style changes */
+
+/* Blocks with modifiers */
+
+/* Elements with modifiers */
